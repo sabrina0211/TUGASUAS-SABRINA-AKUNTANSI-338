@@ -1,0 +1,5 @@
+Faktur;Tanggal;Jenis Kelamin;Jenis Barang;Jumlah;Harga
+INV001;01/01/2023;Pria;Elektronik;2;500000
+INV002;02/01/2023;Wanita;Pakaian;3;150000
+INV003;03/01/2023;Pria;Elektronik;1;250000
+INV004;04/01/2023;Wanita;Peralatan Rumah;5;75000
